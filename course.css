@@ -33,7 +33,7 @@ p {
 .form-link {
   width: min-content;
   margin: 1.2rem 2.4rem;
-  background-color: #42aa5f;
+  background-color: red;
   border-radius: 0.6rem;
 }
 
