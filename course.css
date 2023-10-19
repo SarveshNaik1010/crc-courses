@@ -5,6 +5,7 @@ html {
 body {
   margin: 0;
   font-size: 62.5%;
+  background-color: rgb(255, 247, 232);
 }
 
 p {
@@ -34,7 +35,7 @@ p {
   width: min-content;
   margin: 1.2rem 2.4rem;
   background-color: #42aa5f;
-  border-radius: 0.6rem;
+  border-radius: 0.4rem;
 }
 
 .register-link {
@@ -43,6 +44,7 @@ p {
   text-decoration: none;
   font-size: 2.4rem;
   padding: 1.8rem 2.4rem;
+  font-weight: 600;
 }
 
 /* ************************************************************** */
@@ -127,20 +129,13 @@ ul {
   }
 
   .form-link {
-    width: min-content;
-    margin: 1.2rem auto;
-    background-color: #42aa5f;
-    border-radius: 0.6rem;
+    margin: 1.2rem 0;
+    border-radius: 0.3rem;
   }
-  
+
   .register-link {
-    text-align: center;
-    color: #fff;
-    text-decoration: none;
-    font-size: 2.4rem;
-    padding: 1.8rem 2.4rem;
+    font-size: 1.2rem;
   }
-  
 
   .sec-course {
     padding: 0;
